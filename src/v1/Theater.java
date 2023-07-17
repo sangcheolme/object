@@ -1,8 +1,4 @@
-package domain;
-
-import domain.Audience;
-import domain.Ticket;
-import domain.TicketSeller;
+package v1;
 
 public class Theater {
     private TicketSeller ticketSeller;

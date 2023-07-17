@@ -1,4 +1,4 @@
-package domain;
+package v1;
 
 /**
  * 공연을 관람하기 위해서는 티켓 필요

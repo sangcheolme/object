@@ -1,4 +1,4 @@
-package domain;
+package v1;
 
 public class TicketSeller {
     private TicketOffice ticketOffice;

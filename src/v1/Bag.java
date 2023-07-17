@@ -1,4 +1,4 @@
-package domain;
+package v1;
 
 /**
  * 이벤트 당첨자는 티켓으로 교환할 초대장

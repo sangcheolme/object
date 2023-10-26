@@ -6,6 +6,10 @@ package v1;
 public class Ticket {
     private Long fee; // 티켓 가격
 
+    public Ticket(Long fee) {
+        this.fee = fee;
+    }
+
     public Long getFee() {
         return fee;
     }
